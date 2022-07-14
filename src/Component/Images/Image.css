@@ -1,0 +1,108 @@
+
+
+.carousel-root {
+    width: 100% !important;
+    margin: auto !important;
+    margin-top: 0% !important;
+  }
+
+  .carousel .slide {
+    /* background: #A82D49 !important; */
+    color: black;
+    height: 100%;
+    padding: 55px;
+  }
+  
+  .carousel .slide img {
+    width: 100px !important;
+    border-radius: 50%;
+    margin-top: 25px;
+  }
+  
+  .myCarousel {
+    background: #fafafa;
+    margin-top: -10%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 12%;
+    padding-bottom: 15%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 15px;
+    border: 1px solid #ddd;
+    height: 286px;
+  }
+  
+  .carousel .control-dots {
+    padding-left: 5px !important;
+    outline: 0;
+    bottom: 0% !important;
+    
+    
+  }
+  
+  .myCarousel h3 {
+    color: #222;
+    font-weight: 100;
+    letter-spacing: 0.2px;
+    margin-bottom: 4px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 17px;
+  }
+  
+  .myCarousel h4 {
+    text-transform: uppercase;
+    margin-top: 0;
+    padding-top: 0;
+    font-weight: 500;
+    color: #787878;
+    font-size: 14px;
+  }
+  
+  .myCarousel p {
+    font-weight: 100 !important;
+    line-height: 29px !important;
+    color: #222;
+    font-size: 20px;
+    font-family: sans-serif;
+    max-height: 67px;
+  }
+
+
+  
+.myCarousel p:before {
+    content: "“";
+    color: #aaa;
+    font-size: 26px;
+    font-family: monospace;
+    font-weight: 100;
+  }
+  
+  .myCarousel p:after {
+    content: "”";
+    color: #aaa;
+    font-size: 26px;
+    font-family: monospace;
+    font-weight: 100;
+    line-height: 0;
+  } 
+  
+  .carousel .control-dots .dot {
+    box-shadow: none !important;
+    background-color: #ffffff!important;
+    outline: 0;
+    width: 19px!important;
+    height: 19px!important;
+    
+  }
+  
+  .carousel.carousel-slider .control-arrow {
+    background: #000 !important;
+    height: 50px !important;
+    position: absolute;
+    top: 35% !important;
+    opacity: 0!important;
+  }
+  

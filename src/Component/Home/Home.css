@@ -1,0 +1,41 @@
+.container {
+    width: 1170px;
+}
+
+
+.numbers{
+    background-color: #A82D49;
+    padding: 35px 0px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    
+}
+
+
+.numbers .row{
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.numbers h2{
+    font-size: 40px;
+    color: #fff;
+    margin: 0 auto 25px;
+    font-weight: bold;
+    /* font-family: 'ilmosys-icon'; */
+}
+
+
+
+.numbers h6{
+    color: #fff;
+    font-size: 12px;
+    font-family: Roboto;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 700;
+}
+
+

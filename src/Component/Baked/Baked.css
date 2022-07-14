@@ -1,0 +1,35 @@
+.backed{
+    background-image: url(../../assets/2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 70px 0;
+    display: block;
+}
+
+.backed .overlay{
+    background: #000;
+    opacity: 0.4;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.Content h4{
+    color: white!important;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: left;
+    letter-spacing: 0.2px;
+}
+
+/* 
+button .btn-backed{
+    font-size: 17px;
+    background: #a82d49;
+    border: 3px solid #a82d49;
+    color: #fff;
+} */

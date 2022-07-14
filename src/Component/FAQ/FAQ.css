@@ -1,0 +1,53 @@
+.FAQ-content{
+    padding: 80px 0;
+}
+
+.FAQ-content h2{
+    color: #43121d;
+    margin-bottom: 15px;
+    font-size: 37px;
+    line-height: 47px;
+    font-weight: 600;
+    font-family: 'Quicksand', sans-serif;
+    letter-spacing: 0.1px;
+}
+
+
+.faq-info{
+    margin-bottom: 30px;
+}
+
+.faq-info span{
+    color: #f98169;
+    font-size: 30px;
+    font-family: ubuntu;
+    font-weight: 400;
+    vertical-align: middle;
+    margin-right: 5px;
+
+}
+
+.faq-info h3{
+    color: #43121d;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+
+}
+
+.faq-info p{
+    font-size: 18px;
+    color: #555;
+    font-weight: 400;
+    line-height: 30px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+
+.space100{
+    margin-bottom: 100px;
+}
+
+

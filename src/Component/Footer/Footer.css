@@ -1,0 +1,56 @@
+
+footer{
+    padding: 80px 0 0;
+}
+
+.FOOTER{
+    background-color: #a82d49;
+}
+
+.footerA{
+    margin-bottom: 20px;
+}
+
+.footerA a{
+    color: #FFF;
+    padding: 0 30px 0 0;
+    outline: 0;
+    text-decoration: none;
+    transition: .4s;
+    font-size: 17px;
+    font-weight: 500;
+}
+.footerA a:hover{
+    color: #fff;
+}
+
+.social{
+    margin-bottom: 30px;
+}
+
+
+.social a{
+    font-size: 30px;
+    margin-right: 10px;
+    margin-left: 0px;
+    margin-top: 30px;
+    color: #fff;
+    text-decoration: none;
+    outline: 0;
+}
+
+.social a:hover{
+    color: #fff;
+}
+
+
+.footer-copy{
+    background-color: #a82d49;
+    padding-bottom: 50px;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 0.2px;
+    margin-right: 30px;
+}
+
+

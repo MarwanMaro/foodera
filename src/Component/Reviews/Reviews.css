@@ -1,0 +1,27 @@
+.review-color{
+    background-color: #a82d49;
+
+}
+
+
+.testimonials{
+    padding: 60px 0;
+}
+
+
+.testimonials h2{
+    color: #fff;
+    margin-bottom: 16px;
+    font-size: 38px;
+    font-family: 'Quicksand', sans-serif;
+    line-height: 46px;
+    font-weight: 700;
+    letter-spacing: 0.1px;
+}
+
+
+
+
+.space100{
+    margin-bottom: 100px!important;
+}
